@@ -1,1 +1,0 @@
-# Calculated-Average-IO-Size
